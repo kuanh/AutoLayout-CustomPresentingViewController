@@ -10,9 +10,19 @@
 		8B151BCD2158CBBD0060A9C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B151BCC2158CBBD0060A9C6 /* AppDelegate.swift */; };
 		8B151BCF2158CBBD0060A9C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B151BCE2158CBBD0060A9C6 /* ViewController.swift */; };
 		8B151BD22158CBBD0060A9C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B151BD02158CBBD0060A9C6 /* Main.storyboard */; };
-		8B151BD52158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8B151BD32158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodeld */; };
 		8B151BD72158CBBF0060A9C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B151BD62158CBBF0060A9C6 /* Assets.xcassets */; };
 		8B151BDA2158CBBF0060A9C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B151BD82158CBBF0060A9C6 /* LaunchScreen.storyboard */; };
+		8B2DFB6F2161B38C00651B87 /* Tab1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB6E2161B38C00651B87 /* Tab1ViewController.swift */; };
+		8B2DFB712161B3B000651B87 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB702161B3B000651B87 /* ViewController2.swift */; };
+		8B2DFB732161C65100651B87 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB722161C65100651B87 /* ViewController3.swift */; };
+		8B2DFB752161C9E900651B87 /* TabBar2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB742161C9E900651B87 /* TabBar2ViewController.swift */; };
+		8B2DFB772162118600651B87 /* PerformSegueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB762162118600651B87 /* PerformSegueViewController.swift */; };
+		8B2DFB792162122000651B87 /* PresentedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB782162122000651B87 /* PresentedViewController.swift */; };
+		8B2DFB7C2162127100651B87 /* SlideInPresentationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB7B2162127100651B87 /* SlideInPresentationDelegate.swift */; };
+		8B2DFB7E2162133600651B87 /* SlideInPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB7D2162133600651B87 /* SlideInPresentationController.swift */; };
+		8B2DFB802162152D00651B87 /* SlideInPresentationAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2DFB7F2162152D00651B87 /* SlideInPresentationAnimator.swift */; };
+		8B77E580215A2DCC0018A575 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B77E57F215A2DCC0018A575 /* CollectionViewController.swift */; };
+		8B77E582215A2F150018A575 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B77E581215A2F150018A575 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +30,20 @@
 		8B151BCC2158CBBD0060A9C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B151BCE2158CBBD0060A9C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8B151BD12158CBBD0060A9C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8B151BD42158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DemoShadowUIView.xcdatamodel; sourceTree = "<group>"; };
 		8B151BD62158CBBF0060A9C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B151BD92158CBBF0060A9C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B151BDB2158CBBF0060A9C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B2DFB6E2161B38C00651B87 /* Tab1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab1ViewController.swift; sourceTree = "<group>"; };
+		8B2DFB702161B3B000651B87 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		8B2DFB722161C65100651B87 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		8B2DFB742161C9E900651B87 /* TabBar2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar2ViewController.swift; sourceTree = "<group>"; };
+		8B2DFB762162118600651B87 /* PerformSegueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformSegueViewController.swift; sourceTree = "<group>"; };
+		8B2DFB782162122000651B87 /* PresentedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentedViewController.swift; sourceTree = "<group>"; };
+		8B2DFB7B2162127100651B87 /* SlideInPresentationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideInPresentationDelegate.swift; sourceTree = "<group>"; };
+		8B2DFB7D2162133600651B87 /* SlideInPresentationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideInPresentationController.swift; sourceTree = "<group>"; };
+		8B2DFB7F2162152D00651B87 /* SlideInPresentationAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideInPresentationAnimator.swift; sourceTree = "<group>"; };
+		8B77E57F215A2DCC0018A575 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		8B77E581215A2F150018A575 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +76,33 @@
 		8B151BCB2158CBBD0060A9C6 /* DemoShadowUIView */ = {
 			isa = PBXGroup;
 			children = (
+				8B2DFB7A2162125800651B87 /* CustomPresent */,
 				8B151BCC2158CBBD0060A9C6 /* AppDelegate.swift */,
 				8B151BCE2158CBBD0060A9C6 /* ViewController.swift */,
+				8B77E57F215A2DCC0018A575 /* CollectionViewController.swift */,
+				8B77E581215A2F150018A575 /* CollectionViewCell.swift */,
 				8B151BD02158CBBD0060A9C6 /* Main.storyboard */,
 				8B151BD62158CBBF0060A9C6 /* Assets.xcassets */,
 				8B151BD82158CBBF0060A9C6 /* LaunchScreen.storyboard */,
 				8B151BDB2158CBBF0060A9C6 /* Info.plist */,
-				8B151BD32158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodeld */,
+				8B2DFB6E2161B38C00651B87 /* Tab1ViewController.swift */,
+				8B2DFB742161C9E900651B87 /* TabBar2ViewController.swift */,
+				8B2DFB702161B3B000651B87 /* ViewController2.swift */,
+				8B2DFB722161C65100651B87 /* ViewController3.swift */,
 			);
 			path = DemoShadowUIView;
+			sourceTree = "<group>";
+		};
+		8B2DFB7A2162125800651B87 /* CustomPresent */ = {
+			isa = PBXGroup;
+			children = (
+				8B2DFB762162118600651B87 /* PerformSegueViewController.swift */,
+				8B2DFB782162122000651B87 /* PresentedViewController.swift */,
+				8B2DFB7B2162127100651B87 /* SlideInPresentationDelegate.swift */,
+				8B2DFB7D2162133600651B87 /* SlideInPresentationController.swift */,
+				8B2DFB7F2162152D00651B87 /* SlideInPresentationAnimator.swift */,
+			);
+			path = CustomPresent;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +176,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B151BD52158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodeld in Sources */,
+				8B77E580215A2DCC0018A575 /* CollectionViewController.swift in Sources */,
+				8B2DFB802162152D00651B87 /* SlideInPresentationAnimator.swift in Sources */,
 				8B151BCF2158CBBD0060A9C6 /* ViewController.swift in Sources */,
+				8B77E582215A2F150018A575 /* CollectionViewCell.swift in Sources */,
+				8B2DFB792162122000651B87 /* PresentedViewController.swift in Sources */,
+				8B2DFB752161C9E900651B87 /* TabBar2ViewController.swift in Sources */,
+				8B2DFB6F2161B38C00651B87 /* Tab1ViewController.swift in Sources */,
 				8B151BCD2158CBBD0060A9C6 /* AppDelegate.swift in Sources */,
+				8B2DFB772162118600651B87 /* PerformSegueViewController.swift in Sources */,
+				8B2DFB732161C65100651B87 /* ViewController3.swift in Sources */,
+				8B2DFB7C2162127100651B87 /* SlideInPresentationDelegate.swift in Sources */,
+				8B2DFB7E2162133600651B87 /* SlideInPresentationController.swift in Sources */,
+				8B2DFB712161B3B000651B87 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +335,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RT689AHQ26;
 				INFOPLIST_FILE = DemoShadowUIView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +354,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RT689AHQ26;
 				INFOPLIST_FILE = DemoShadowUIView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -338,19 +388,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		8B151BD32158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				8B151BD42158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodel */,
-			);
-			currentVersion = 8B151BD42158CBBD0060A9C6 /* DemoShadowUIView.xcdatamodel */;
-			path = DemoShadowUIView.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 8B151BC12158CBBC0060A9C6 /* Project object */;
 }
